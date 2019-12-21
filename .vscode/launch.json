@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ejercicio8",
+            "request": "launch",
+            "mainClass": "app.ejercicio8",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio7",
+            "request": "launch",
+            "mainClass": "app.ejercicio7",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio6",
+            "request": "launch",
+            "mainClass": "app.ejercicio6",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio5",
+            "request": "launch",
+            "mainClass": "app.ejercicio5",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio4",
+            "request": "launch",
+            "mainClass": "app.ejercicio4",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio3",
+            "request": "launch",
+            "mainClass": "app.ejercicio3",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio2",
+            "request": "launch",
+            "mainClass": "app.ejercicio2",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ejercicio1",
+            "request": "launch",
+            "mainClass": "app.ejercicio1",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "app.App",
