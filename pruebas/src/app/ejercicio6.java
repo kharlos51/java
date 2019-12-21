@@ -18,5 +18,6 @@ public class ejercicio6 {
         else{
             System.out.println("El numero: " + numero + " no es divisible entre 2");
         }
+        sc.close();
     }
 }

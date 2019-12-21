@@ -15,6 +15,6 @@ public class ejercicio7 {
 
         char caracter = (char) numero;
         System.out.println("El caracter es: " + caracter);
-
+        sc.close();
     }
 }

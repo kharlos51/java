@@ -15,5 +15,6 @@ public class ejercicio5 {
         double radio= sc.nextDouble();
         double area = Math.PI * Math.pow(radio, 2);
         System.out.println("El area del circulo es: " + area);
+        sc.close();
     }
 }

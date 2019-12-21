@@ -17,5 +17,6 @@ public class ejercicio8 {
         int codigo = (int) car;
         //se muestra por consola
         System.out.println("El codigo ASCII del caracter es: " + codigo);
+        sc.close();
     }
 }
