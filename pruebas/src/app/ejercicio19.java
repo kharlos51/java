@@ -27,5 +27,6 @@ public class ejercicio19 {
         } else {
             System.out.println("el numero: " + num1 + " tiene " + contador + " cifras");
         }
+        sc.close();
     }
 }

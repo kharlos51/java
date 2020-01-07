@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - fibonacci",
+            "request": "launch",
+            "mainClass": "app.fibonacci",
+            "projectName": "pruebas"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - decimaltobinario",
             "request": "launch",
             "mainClass": "app.decimaltobinario",
